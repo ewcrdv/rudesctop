@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=RuDesktopURL Scheme Handler
+NoDisplay=true
+MimeType=x-scheme-handler/rudesktop;
+TryExec=rudesktop
+Exec=rudesktop %u
+Icon=rudesktop
+Terminal=false
+Type=Application
+StartupNotify=false
